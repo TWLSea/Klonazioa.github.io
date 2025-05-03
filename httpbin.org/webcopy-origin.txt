@@ -1,0 +1,60 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Code+Pro:300,600|Titillium+Web:400,600,700
+File Name: C:\Downloaded Web Sites\httpbin.org\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\httpbin.org\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\httpbin.org\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DBKXtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\httpbin.org\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DBKXtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v23/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DJKQtMlrSQ.ttf
+File Name: C:\Downloaded Web Sites\httpbin.org\s\sourcecodepro\v23\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DJKQtMlrSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
+File Name: C:\Downloaded Web Sites\httpbin.org\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+File Name: C:\Downloaded Web Sites\httpbin.org\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+File Name: C:\Downloaded Web Sites\httpbin.org\s\titilliumweb\v17\NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+Content Type: font/ttf
+
+Uri: https://httpbin.org/
+File Name: C:\Downloaded Web Sites\httpbin.org\index.htm
+Content Type: text/html
+
+Uri: https://httpbin.org/flasgger_static/lib/jquery.min.js
+File Name: C:\Downloaded Web Sites\httpbin.org\flasgger_static\lib\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+File Name: C:\Downloaded Web Sites\httpbin.org\flasgger_static\swagger-ui-bundle.js
+Content Type: application/javascript
+
+Uri: https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+File Name: C:\Downloaded Web Sites\httpbin.org\flasgger_static\swagger-ui-standalone-preset.js
+Content Type: application/javascript
+
+Uri: https://httpbin.org/flasgger_static/swagger-ui.css
+File Name: C:\Downloaded Web Sites\httpbin.org\flasgger_static\swagger-ui.css
+Content Type: text/css
+
+Uri: https://httpbin.org/forms/post
+File Name: C:\Downloaded Web Sites\httpbin.org\forms\post.html
+Content Type: text/html
+
+Uri: https://httpbin.org/static/favicon.ico
+File Name: C:\Downloaded Web Sites\httpbin.org\static\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
